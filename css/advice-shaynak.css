@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  .shaynak-advice {
  background-color: black;
  color: hotpink;
@@ -19,4 +20,27 @@
 	 
 	 
  }
+=======
+ .shaynak-advice {
+ background-color: black;
+ color: hotpink;
+ font-family: 'Chilanka', cursive;
+
+ 
+ }
+
+ .h1-heading {
+	 
+	 color: white !important;
+	  font-family: 'Chilanka', cursive;
+	  text-align: center;
+ }
+ 
+ .p {
+	 
+	 color: white;
+	 
+	 
+ }
+>>>>>>> aa1e50a7... removing duplicate file
  
